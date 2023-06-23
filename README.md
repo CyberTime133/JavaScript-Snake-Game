@@ -1,5 +1,5 @@
-# JavaScript-Snake-Game
 
-JavaScript Snake game sources 
-https://zetcode.com/javascript/snake/
 
+it praktikum gen
+
+https://cybertime133.github.io/JavaScript-Snake-Game/
